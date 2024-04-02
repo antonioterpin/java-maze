@@ -25,7 +25,7 @@ Ensure you have the following installed:
 ### Installation
 Clone the repository or download the source code:
 ```bash
-git git@github.com:antonioterpin/java-maze.git
+git clone git@github.com:antonioterpin/java-maze.git
 ```
 Compile the Java bytecode:
 ```bash
