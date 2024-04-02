@@ -3,7 +3,7 @@
 This project was a fun game I developed to play with my niece when I was learning Java in high school. It generates a random maze of the desired size (it works quite nicely!) and makes the two players challenge each other on who finishes first. If stuck, it computes the solution and show it to the players.
 
 ![Maze game preview](media/maze-run.gif)
-![Maze game solution](media/maze-run.gif)
+![Maze game solution](media/maze-solution.gif)
 
 ## Features
 | Feature              | Description                                                                                                   |
